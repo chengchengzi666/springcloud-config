@@ -1,0 +1,2 @@
+# springcloud-config
+学习尚硅谷SpringCloud教程使用的Config配置
